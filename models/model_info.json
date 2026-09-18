@@ -1,0 +1,10 @@
+{
+  "llm_model": "llama3.2",
+  "embedding_model": "nomic-embed-text",
+  "provider": "Ollama (Local)",
+  "llm_parameters": "3.2B",
+  "quantization": "Q4_K_M",
+  "context_length": 131072,
+  "temperature": 0.2,
+  "embedding_dimension": 768
+}
